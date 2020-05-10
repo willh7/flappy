@@ -44,7 +44,7 @@ function setup() {
 }
 
 function preload() {
-	img = loadImage("bird1.jpg");
+	img = loadImage("bird.png");
 }
 
 function draw() {
